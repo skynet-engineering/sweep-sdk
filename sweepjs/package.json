@@ -1,5 +1,5 @@
 {
-  "name": "sweepjs",
+  "name": "@skynet-engineering/sweepjs",
   "version": "1.3.0",
   "description": "Native module for the Sweep LiDAR",
   "keywords": [
